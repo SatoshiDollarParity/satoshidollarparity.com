@@ -18,10 +18,19 @@ Imagine how much of today’s dollars it takes to become a millionaire in that f
 
 ---
 
+## Latest Newsletter - September 2024
+
+**A Journey Through Bitcoin’s Early Days and Beyond**
+
+In March 2013, Bitcoin's value surged by 176%, climbing from **$33** to **$92** within a single month. Fast forward to today, and Bitcoin's price has reached **$56,000**—a stunning rise in value.
+
+[Read the Full Newsletter](newsletters/september-2024-newsletter.md)
+
+---
+
 ## About SatoshiDollarParity
 
 With 15 years of hands-on experience in web/mobile technology and Bitcoin, I’ve seen the rise of Bitcoin from $60 to $60,000. My entrepreneurial journey includes founding several startups, including Kitiwa, a Bitcoin exchange in Ghana.
-
 
 ### My Experience:
 - Purchased 80 Bitcoin in 2012 for $15,000 to run Kitiwa.com.
