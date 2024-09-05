@@ -2,8 +2,6 @@
 
 ---
 
-## Backend & Frontend Engineer leveraging Bitcoin blockchain and web/mobile tech to advance global financial freedom and financial inclusion.
-
 Welcome to SatoshiDollarParity – where we guide businesses and professionals in navigating the Bitcoin and blockchain landscape to achieve financial growth and inclusion in the digital future.
 
 ---
@@ -16,7 +14,7 @@ At SatoshiDollarParity, we specialize in helping you make strategic investments 
 
 Imagine how much of today’s dollars it takes to become a millionaire in that future crypto economy. **1% of a whole Bitcoin can make you a millionaire in the crypto cyber world of tomorrow.**
 
-[Book a Consulting Session](#)   [Contact Me](#)
+[Book a Consulting Session](https://calendly.com/mawueli)   [Contact Me](mailto:madzoe@satoshidollarparity.com)
 
 ---
 
@@ -46,7 +44,7 @@ Let’s talk about how we can make power moves together over the next decade.
 - **Blockchain Integration**: Implement secure and scalable blockchain solutions in your business.
 - **Bitcoin Payment Solutions**: Enable your business to accept Bitcoin payments and future-proof your operations.
 
-[Schedule a Consultation](#)
+[Schedule a Consultation](https://calendly.com/mawueli)
 
 ---
 
@@ -70,15 +68,15 @@ At SatoshiDollarParity, we are committed to not only financial success but also 
 
 Ready to explore how Bitcoin can drive your financial future and business success?
 
-[Book a Consulting Session](#) | [Contact Me](mailto:madzoe@satoshidollarparity.com)
+[Book a Consulting Session](https://calendly.com/mawueli) | [Contact Me](mailto:madzoe@satoshidollarparity.com)
 
 ---
 
 ## Connect with Me
 
-- [LinkedIn](#)
+- [LinkedIn](https://linkedin.com/in/mawueli)
 - [YouTube](https://www.youtube.com/@SatoshiDollarParity)
-- [Twitter](#)
+- [Twitter](https://twitter.com/mawueli)
 
 ---
 
