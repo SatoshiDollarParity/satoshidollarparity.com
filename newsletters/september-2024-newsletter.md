@@ -27,4 +27,4 @@ Today, with Bitcoin valued at **$56,000**, it's clear that the early lessons lea
 
 **Address:**  
 Satoshi Dollar Parity Inc.  
-590 B Street, Hayward, 94541 CA
+Made with love in California!
