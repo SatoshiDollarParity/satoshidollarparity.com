@@ -20,7 +20,8 @@ Imagine how much of today’s dollars it takes to become a millionaire in that f
 
 ## About SatoshiDollarParity
 
-With 15 years of hands-on experience in web/mobile technology and Bitcoin, I’ve seen the rise of Bitcoin from $100 to $60,000. My entrepreneurial journey includes founding several startups, including Kitiwa, a Bitcoin exchange in Ghana.
+With 15 years of hands-on experience in web/mobile technology and Bitcoin, I’ve seen the rise of Bitcoin from $60 to $60,000. My entrepreneurial journey includes founding several startups, including Kitiwa, a Bitcoin exchange in Ghana.
+
 
 ### My Experience:
 - Purchased 80 Bitcoin in 2012 for $15,000 to run Kitiwa.com.
