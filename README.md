@@ -1,0 +1,1 @@
+# satoshidollarparity.com
