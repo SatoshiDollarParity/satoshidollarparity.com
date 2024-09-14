@@ -10,7 +10,6 @@ url: "https://www.satoshidollarparity.com" # or your custom domain if configured
 social_links:
   - name: GitHub
     url: https://github.com/wallclockbuilder
-    url: https://github.com/SatoshiDollarParity
   - name: LinkedIn
     url: https://www.linkedin.com
   - name: YouTube
