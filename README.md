@@ -14,7 +14,7 @@ At SatoshiDollarParity, we specialize in helping you make strategic investments 
 
 Imagine how much of today’s dollars it takes to become a millionaire in that future crypto economy. **1% of a whole Bitcoin can make you a millionaire in the crypto cyber world of tomorrow.**
 
-[Book a Consulting Session](https://www.satoshidollarparity.com/consulting)   [Contact Me](mailto:madzoe@satoshidollarparity.com)
+[Book a Consulting Session](https://calendly.com/mawueli)   [Contact Me](mailto:madzoe@satoshidollarparity.com)
 
 ---
 
@@ -54,7 +54,7 @@ Let’s talk about how we can make power moves together over the next decade.
 - **Blockchain Integration**: Implement secure and scalable blockchain solutions in your business.
 - **Bitcoin Payment Solutions**: Enable your business to accept Bitcoin payments and future-proof your operations.
 
-[Schedule a Consultation](https://www.satoshidollarparity.com/consulting)
+[Schedule a Consultation](https://calendly.com/mawueli)
 
 ---
 
@@ -78,7 +78,7 @@ At SatoshiDollarParity, we are committed to not only financial success but also 
 
 Ready to explore how Bitcoin can drive your financial future and business success?
 
-[Book a Consulting Session](https://www.satoshidollarparity.com/consulting) | [Contact Me](mailto:madzoe@satoshidollarparity.com)
+[Book a Consulting Session](https://calendly.com/mawueli) | [Contact Me](mailto:madzoe@satoshidollarparity.com)
 
 ---
 
