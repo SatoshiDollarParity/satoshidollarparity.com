@@ -4,7 +4,7 @@ theme: jekyll-theme-minimal
 
 # Basic customizations
 baseurl: "" # leave this empty unless you’re hosting under a subpath
-url: "https://satoshidollarparity.github.io" # or your custom domain if configured
+url: "https://www.satoshidollarparity.com" # or your custom domain if configured
 
 # Social links (you can add more links if needed)
 social_links:
